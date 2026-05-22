@@ -24,10 +24,17 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="170"/>
+## 📊 Performance Metrics & Tracking
+
+Here is a live look at my coding performance and verification metrics across my repositories:
+
+<p align="left">
+  <img src="https://shields.io" alt="Total Stars" />
+  <img src="https://shields.io" alt="Modules Count" />
+  <img src="https://shields.io" alt="Latest Update" />
+  <img src="https://shields.io" alt="Repo Size" />
 </p>
+
 
 ---
 
