@@ -53,10 +53,10 @@ Here is a live look at my coding performance and verification metrics across my 
   <a href="https://github.com/Aftab 009Khan">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/aftab-khan-351794252?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUREMAIL@gmail.com">
+  <a href="mailto: sonuaftabkhan9211@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
