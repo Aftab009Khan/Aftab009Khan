@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm <Your Name> ✨</h1>
+<h1 align="center">✨ Hi, I'm <Aftab Khan> ✨</h1>
 <h3 align="center">🚀 Developer | 💻 Problem Solver | 🌱 Lifelong Learner</h3>
 
 <p align="center">
