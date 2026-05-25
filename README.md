@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,c++,html,css,js,react,nodejs,git,github,vscode" />
 </p>
 
 ---
@@ -29,10 +29,13 @@
 Here is a live look at my coding performance and verification metrics across my repositories:
 
 <p align="left">
-  <img src="https://shields.io" alt="Total Stars" />
-  <img src="https://shields.io" alt="Modules Count" />
-  <img src="https://shields.io" alt="Latest Update" />
-  <img src="https://shields.io" alt="Repo Size" />
+  <img src="https://img.shields.io/github/stars/Aftab009Khan?style=for-the-badge" alt="Total Stars" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Modules%20Count&query=public_repos&url=https://api.github.com/users/Aftab009Khan&style=for-the-badge" alt="Modules Count" />
+
+  <img src="https://img.shields.io/github/last-commit/Aftab009Khan/Aftab009Khan?style=for-the-badge" alt="Latest Update" />
+
+  <img src="https://img.shields.io/github/repo-size/Aftab009Khan/Aftab009Khan?style=for-the-badge" alt="Repo Size" />
 </p>
 
 
