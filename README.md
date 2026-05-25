@@ -50,7 +50,7 @@ Here is a live look at my coding performance and verification metrics across my 
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="(https://github.com/Aftab009Khan)">
+  <a href="https://github.com/Aftab009Khan">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/aftab-khan-351794252?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
