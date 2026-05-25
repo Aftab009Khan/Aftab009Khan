@@ -40,14 +40,14 @@ Here is a live look at my coding performance and verification metrics across my 
 
 ## 🔥 Streaks
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Aftab009Khan&theme=radical" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Aftab 009Khan">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINK">
